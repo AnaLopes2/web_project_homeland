@@ -10,7 +10,7 @@
   font-weight: 900;
   line-height: 58px;
 }
-.intro_subtitle {
+.intro__subtitle {
   max-width: 738px;
   width: 100%;
   font-size: 24px;
@@ -19,7 +19,7 @@
   margin-bottom: 10px;
   text-align: left;
 }
-.intro__author_name {
+.intro__author-name {
   max-width: 732px;
   width: 100%;
   font-size: 24px;
@@ -28,7 +28,7 @@
   text-align: right;
   margin-bottom: 32px;
 }
-.intro__intro_text {
+.intro__text {
   max-width: 722px;
   width: 100%;
   font-size: 16px;
@@ -36,7 +36,8 @@
   line-height: 26.08px;
   text-align: left;
 }
-@media screen and (max-width: 768px) {
+
+@media screen and (max-width: 1024px) {
   .intro {
     max-width: 720px;
     margin-left: 24px;
@@ -53,7 +54,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 544px) {
   .intro {
     max-width: 288px;
     margin-left: 16px;

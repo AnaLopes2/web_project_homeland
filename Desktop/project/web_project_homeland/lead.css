@@ -20,7 +20,7 @@
   display: block;
   margin: 64px auto 0;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .lead {
     max-width: 720px;
     margin-top: 90px;
@@ -37,7 +37,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 544px) {
   .lead {
     max-width: 288px;
     margin-top: 50px;

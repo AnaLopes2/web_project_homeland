@@ -1,17 +1,7 @@
 @import url("../vendor/normalize.css");
 @import url("../vendor/fonts.css");
+@import url("../blocks/body.css");
 @import url("../blocks/footer.css");
 @import url("../blocks/intro.css");
 @import url("../blocks/lead.css");
 @import url("../blocks/nav.css");
-@import url("../blocks/page.css");
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Inter" Arial, sans-serif;
-  color: #ffffff;
-}
-body {
-  background-color: #2a2c2f;
-}

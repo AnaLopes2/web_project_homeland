@@ -20,7 +20,7 @@
   display: block;
   margin: 64px auto 0;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
   .lead {
     max-width: 720px;
     margin-top: 90px;
